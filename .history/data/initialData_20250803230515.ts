@@ -21,7 +21,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Community Meal Service',
     description: 'Help prepare and serve free meals to community members in a respectful and welcoming environment.',
     date: '2025-09-01', time: '15:00', duration: 3, totalSlots: 8,
-    imageUrl: '/CUCaresDemo/images/download-1.jpg',
+    imageUrl: '/images/download-1.jpg',
     points: 180, cause: 'Food Security and Hunger Relief'
   },
   {
@@ -30,7 +30,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Donation Sorting',
     description: 'Assist in sorting incoming donations and arranging items on the sales floor. Help keep useful materials out of the landfill!',
     date: '2025-09-02', time: '11:00', duration: 2.5, totalSlots: 10,
-    imageUrl: '/CUCaresDemo/images/download.jpg',
+    imageUrl: '/images/download.jpg',
     points: 150, cause: 'Environment & Sustainability'
   },
   {
@@ -39,7 +39,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Garden Weeding & Maintenance',
     description: 'Get your hands dirty and help maintain the beautiful and playful gardens that serve as a resource for local children.',
     date: '2025-09-03', time: '09:00', duration: 3, totalSlots: 15,
-    imageUrl: '/CUCaresDemo/images/images.jpg',
+    imageUrl: '/images/images.jpg',
     points: 180, cause: 'Education'
   },
   {
@@ -48,7 +48,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Animal Care Assistant',
     description: 'Assist the staff with daily feeding, cleaning, and care for the resident animals at the nature center.',
     date: '2025-09-04', time: '13:00', duration: 4, totalSlots: 6,
-    imageUrl: '/CUCaresDemo/images/images-1.jpg',
+    imageUrl: '/images/images-1.jpg',
     points: 240, cause: 'Other'
   },
   {
@@ -57,7 +57,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Dog Walking & Socialization',
     description: 'Give shelter dogs some much-needed exercise and affection by taking them for walks on the SPCA trails.',
     date: '2025-09-05', time: '10:00', duration: 2, totalSlots: 12,
-    imageUrl: '/CUCaresDemo/images/download-3.jpg',
+    imageUrl: '/images/download-3.jpg',
     points: 120, cause: 'Other'
   },
   {
