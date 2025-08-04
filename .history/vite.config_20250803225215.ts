@@ -7,7 +7,8 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
 
   return {
-    base: '/CUCaresDemo/',
+    // Use './' instead of absolute path for better flexibility
+    base: 'CUCaresDemo',
     
     plugins: [react()],
     

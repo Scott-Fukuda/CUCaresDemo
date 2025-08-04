@@ -1,5 +1,5 @@
 
-import { User, Opportunity, SignUp, StudentGroup, FriendRequest, Badge } from '../types';
+import { User, Opportunity, SignUp, StudentGroup, FriendRequest, Badge, StudentGroupCategory } from '../types';
 
 export const initialStudents: User[] = [
   { id: 1, firstName: 'Francis', lastName: 'Johnson', email: 'aj123@cornell.edu', password: 'password123', profilePictureUrl: 'https://i.pravatar.cc/150?u=Francis', interests: ['Food Security and Hunger Relief', 'Other'], friendIds: [8, 3, 9], groupIds: [101, 201] },
