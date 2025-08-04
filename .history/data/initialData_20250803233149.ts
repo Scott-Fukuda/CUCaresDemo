@@ -30,7 +30,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Donation Sorting',
     description: 'Assist in sorting incoming donations and arranging items on the sales floor. Help keep useful materials out of the landfill!',
     date: '2025-09-02', time: '11:00', duration: 2.5, totalSlots: 10,
-    imageUrl: 'images/download.jpg',
+    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/images/download.jpg',
     points: 150, cause: 'Environment & Sustainability'
   },
   {
