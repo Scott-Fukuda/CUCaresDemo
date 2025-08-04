@@ -21,7 +21,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Community Meal Service',
     description: 'Help prepare and serve free meals to community members in a respectful and welcoming environment.',
     date: '2025-09-01', time: '15:00', duration: 3, totalSlots: 8,
-    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/public/images/download-1.jpg',
+    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/images/download-1.jpg',
     points: 180, cause: 'Food Security and Hunger Relief'
   },
   {
@@ -30,7 +30,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Donation Sorting',
     description: 'Assist in sorting incoming donations and arranging items on the sales floor. Help keep useful materials out of the landfill!',
     date: '2025-09-02', time: '11:00', duration: 2.5, totalSlots: 10,
-    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/public/images/download.jpg',
+    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/images/download.jpg',
     points: 150, cause: 'Environment & Sustainability'
   },
   {
