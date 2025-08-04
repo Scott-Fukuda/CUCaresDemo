@@ -66,7 +66,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Exhibit Floor Volunteer',
     description: 'Engage with families and children on the museum floor, helping them interact with exhibits and facilitating scientific discovery.',
     date: '2025-09-06', time: '12:00', duration: 3.5, totalSlots: 8,
-    imageUrl: '/images/download-1.jpg',
+    imageUrl: '/CUCaresDemo/images/download-1.jpg',
     points: 210, cause: 'Education'
   },
   {
@@ -75,7 +75,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Event Ushering',
     description: 'Help with ticket scanning, guiding patrons to their seats, and ensuring a great experience for a concert night.',
     date: '2025-09-06', time: '18:00', duration: 4, totalSlots: 10,
-    imageUrl: '/images/download-2.jpg',
+    imageUrl: '/CUCaresDemo/images/download-2.jpg',
     points: 240, cause: 'Other'
   },
   {
@@ -84,7 +84,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Trail Maintenance Day',
     description: 'Work with a team to clear brush, repair pathways, and help maintain the beautiful natural trails around Ithaca.',
     date: '2025-09-07', time: '09:00', duration: 4, totalSlots: 20,
-    imageUrl: '/images/download.jpg',
+    imageUrl: '/CUCaresDemo/images/download.jpg',
     points: 240, cause: 'Environment & Sustainability'
   },
 ];
