@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://scott-fukuda.github.io/CUCaresDemo",
+  "homepage": "https://Scott-Fukuda.github.io/CUCaresTesting",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

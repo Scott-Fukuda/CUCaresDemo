@@ -84,7 +84,7 @@ export const initialOpportunities: Opportunity[] = [
     title: 'Trail Maintenance Day',
     description: 'Work with a team to clear brush, repair pathways, and help maintain the beautiful natural trails around Ithaca.',
     date: '2025-09-07', time: '09:00', duration: 4, totalSlots: 20,
-    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/images/download.jpg',
+    imageUrl: 'https://scott-fukuda.github.io/CUCaresDemo/public/images/download.jpg',
     points: 240, cause: 'Environment & Sustainability'
   },
 ];
